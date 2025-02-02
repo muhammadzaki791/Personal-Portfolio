@@ -139,8 +139,8 @@ export function Contact() {
               user- friendly, and memorable interactive experiences.
             </p>
             <div className="space-y-4">
-              <p className="text-xl">Youremail@gmail.com</p>
-              <p className="text-xl">1234567890</p>
+              <p className="text-xl">muhammadzaki.ayaz@gmail.com</p>
+              <p className="text-xl">0312-2587835</p>
             </div>
           </motion.div>
         </div>
